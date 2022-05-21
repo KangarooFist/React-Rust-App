@@ -4,6 +4,7 @@ use wasm_bindgen::prelude::*;
 pub fn add_two_ints(a: u32, b: u32) -> u32 {
    a + b
 }
+
 #[wasm_bindgen]
 pub fn fib(n: u32) -> u32 {
    if n == 0 || n == 1 {
