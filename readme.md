@@ -1,1 +1,1 @@
-Bridging Rust and React - INCOMPLETE as of yet.
+Bridging Rust and React - Basic Computation works - Followed a tutorial guide at first. UI updates to be included soon.
